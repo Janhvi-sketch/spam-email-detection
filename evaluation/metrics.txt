@@ -1,0 +1,13 @@
+Accuracy: 0.9869
+Brier Score: 0.0201
+Average Precision: 0.9986
+
+Classification Report:
+              precision    recall  f1-score   support
+
+         ham       0.99      0.98      0.99      3118
+        spam       0.98      0.99      0.99      2910
+
+    accuracy                           0.99      6028
+   macro avg       0.99      0.99      0.99      6028
+weighted avg       0.99      0.99      0.99      6028
